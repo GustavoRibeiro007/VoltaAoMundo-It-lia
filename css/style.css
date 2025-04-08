@@ -350,7 +350,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .hero-section-info {
-    background: url('/img/ancient-map.jpg') no-repeat center center/cover;
+    background: url('../img/ancient-map.jpg') no-repeat center center/cover;
     position: relative;
     height: 70vh; 
     margin-top: -100px; 
@@ -385,7 +385,7 @@ h1, h2, h3, h4, h5, h6,
 
 
 .hero-section-culinaria {
-    background: url('/img/culinaria.jpg') no-repeat center center/cover; 
+    background: url('../img/culinaria.jpg') no-repeat center center/cover; 
     position: relative;
     height: 70vh; 
     margin-top: -100px; 
@@ -420,7 +420,7 @@ h1, h2, h3, h4, h5, h6,
 
 
 .hero-section-cultura {
-    background: url('/img/italia.webp') no-repeat center center/cover; 
+    background: url('../img/italia.webp') no-repeat center center/cover; 
     position: relative;
     height: 70vh; 
     margin-top: -100px; 
