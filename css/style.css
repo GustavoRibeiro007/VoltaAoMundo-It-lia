@@ -317,7 +317,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .hero-section-turismo {
-    background: url('/img/sicilia.jpg') no-repeat center center/cover; 
+    background: url('../img/sicilia.jpg') no-repeat center center/cover; 
     position: relative;
     height: 70vh; 
     margin-top: -100px; 
